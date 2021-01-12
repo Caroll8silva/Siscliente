@@ -1,0 +1,12 @@
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.InfraEstructure\bin\Debug\netcoreapp3.1\Siscliente.InfraEstructure.deps.json
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.InfraEstructure\bin\Debug\netcoreapp3.1\Siscliente.InfraEstructure.dll
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.InfraEstructure\bin\Debug\netcoreapp3.1\Siscliente.InfraEstructure.pdb
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.InfraEstructure\bin\Debug\netcoreapp3.1\Siscliente.ApplicationCore.dll
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.InfraEstructure\bin\Debug\netcoreapp3.1\Siscliente.ApplicationCore.pdb
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.InfraEstructure\obj\Debug\netcoreapp3.1\Siscliente.InfraEstructure.csprojAssemblyReference.cache
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.InfraEstructure\obj\Debug\netcoreapp3.1\Siscliente.InfraEstructure.AssemblyInfoInputs.cache
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.InfraEstructure\obj\Debug\netcoreapp3.1\Siscliente.InfraEstructure.AssemblyInfo.cs
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.InfraEstructure\obj\Debug\netcoreapp3.1\Siscliente.InfraEstructure.csproj.CoreCompileInputs.cache
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.InfraEstructure\obj\Debug\netcoreapp3.1\Siscliente.InfraEstructure.csproj.CopyComplete
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.InfraEstructure\obj\Debug\netcoreapp3.1\Siscliente.InfraEstructure.dll
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.InfraEstructure\obj\Debug\netcoreapp3.1\Siscliente.InfraEstructure.pdb

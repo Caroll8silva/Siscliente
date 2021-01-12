@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Siscliente.InfraEstructure/1.0.0": {
+        "dependencies": {
+          "Siscliente.ApplicationCore": "1.0.0"
+        },
+        "runtime": {
+          "Siscliente.InfraEstructure.dll": {}
+        }
+      },
+      "Siscliente.ApplicationCore/1.0.0": {
+        "runtime": {
+          "Siscliente.ApplicationCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Siscliente.InfraEstructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Siscliente.ApplicationCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

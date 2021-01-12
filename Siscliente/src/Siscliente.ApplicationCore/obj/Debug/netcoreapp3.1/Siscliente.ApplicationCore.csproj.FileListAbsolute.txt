@@ -1,0 +1,9 @@
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.ApplicationCore\bin\Debug\netcoreapp3.1\Siscliente.ApplicationCore.deps.json
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.ApplicationCore\bin\Debug\netcoreapp3.1\Siscliente.ApplicationCore.dll
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.ApplicationCore\bin\Debug\netcoreapp3.1\Siscliente.ApplicationCore.pdb
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.ApplicationCore\obj\Debug\netcoreapp3.1\Siscliente.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.ApplicationCore\obj\Debug\netcoreapp3.1\Siscliente.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.ApplicationCore\obj\Debug\netcoreapp3.1\Siscliente.ApplicationCore.AssemblyInfo.cs
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.ApplicationCore\obj\Debug\netcoreapp3.1\Siscliente.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.ApplicationCore\obj\Debug\netcoreapp3.1\Siscliente.ApplicationCore.dll
+C:\Users\Caroll\source\repos\Siscliente\src\Siscliente.ApplicationCore\obj\Debug\netcoreapp3.1\Siscliente.ApplicationCore.pdb
